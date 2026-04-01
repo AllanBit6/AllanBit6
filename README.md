@@ -4,6 +4,42 @@
 
 ## About Me :
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 🏢 I am currently working as a **QA Software Tester** at SIGEL
 - 🎓 Studies for System Engineering at [UMG Guatemala]([https://www.londonmet.ac.uk/](https://umg.edu.gt/))
 - 🏡'Lives in **Totonicapan Guatemala**
