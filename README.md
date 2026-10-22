@@ -33,7 +33,7 @@ I have worked on collaborative projects using **Git, GitHub and Trello**, leadin
 * Basic backend experience with **Django, NestJS, Flask, MySQL and Prisma ORM**
 * Interested in building clean, scalable and useful software for real business needs
 * Based in **Totonicapán, Guatemala**
-* Portfolio: [allanbit6.github.io/Curriculum](https://allanbit6.github.io/Curriculum)
+* Portfolio: [allanbit6.github.io/Curriculum]([https://allanbit6.github.io/Curriculum](https://allan-lacan.code-qx.click/))
 
 ---
 
